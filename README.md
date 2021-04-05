@@ -27,11 +27,12 @@ Optional input argument to name a top-folder name to download everything to.
 * openssl
 
 # Datasets:
-KITTI odometry data & ground truth,
-two datasets from EuRoC
+* KITTI odometry data & ground truth,
+* EuRoC Machine Hall 01
+* EuRoC Vicon Room 1 01
 
 # git repos:
-Orb-slam3
-Pangolin
-openCV
+* Orb-slam3
+* Pangolin
+* openCV
 
